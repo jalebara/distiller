@@ -14,9 +14,9 @@ graphviz==0.10.1
 ipywidgets==7.4.2
 bqplot==0.11.5
 pyyaml
-pytest~=4.6.1
+pytest>=4.6.1
 xlsxwriter>=1.2.2
 pretrainedmodels==0.7.4
 scikit-learn>=1.2.0
 gym==0.12.5
-tqdm==4.33.0
+tqdm>=4.33.0
